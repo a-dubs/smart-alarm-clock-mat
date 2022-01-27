@@ -1,13 +1,19 @@
 # Boilerplate for Projects on GitHub
 
-This is the boilerplate for all my personal projects on GitHub. (This is the brief description for this repository)
+My smart alarm clock that is turned off only by standing on a pressure sensitive mat created using a Raspberry Pi Zero W and my home server 
 
 <br>
 
 ## Summary
- - This is the template boilerplate repository for all personal projects that I have on my GitHub. 
- - This template will expedite the creation and maintenance of all my various projects' repositories.
- - And more importantly, the standardized format will allow for auto parsing of the repository by a python script to automatically update my personal portfolio website.  
+ - This project is divided into 3 categories
+   - The smart mat  
+     - Pressure sensitive mat 
+     - Raspberry Pi Zero W that runs a python script which sends HTTP requests to the API hosted on my server
+   - The alarm clock software and automation on my phone  
+     - "Wake me up!" Android app provides the alarms that are monitored and triggered by "Tasker"  
+     - "Tasker" Android app monitors and triggers alarms provided "Wake me up!"   
+   - The public API hosted on my server 
+     - NodeJS server using Express
 
 <br>
 
