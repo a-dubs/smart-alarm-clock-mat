@@ -28,7 +28,7 @@ My smart alarm clock that is turned off only by standing on a pressure sensitive
 ## Image Gallery
 
 ### Placeholder Image (This is the image's caption/label)
-![Please end my suffering... (This is the image's alt text)](https://github.com/a-dubs/github-project-template/blob/master/image_gallery/Please%20replace%20me%20I%20am%20begging%20you.jpg)
+![Please end my suffering... (This is the image's alt text)](/image_gallery/Please%20replace%20me%20I%20am%20begging%20you.jpg)
 <br>
 
 <!-- 
