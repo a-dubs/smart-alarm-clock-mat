@@ -44,5 +44,5 @@ My smart alarm clock that is turned off only by standing on a pressure sensitive
 **Project Status** : (Active, Inactive, Archived)  
 **Project Progress** : (Concept, In Progress, Functional, Completed)
 
-**Project dates** : Jan '22 - Present  
+**Project dates** : Dec '21 - March '22  
 
