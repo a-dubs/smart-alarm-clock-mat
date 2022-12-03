@@ -1,4 +1,4 @@
-# Boilerplate for Projects on GitHub
+# Smart Mat Alarm Clock 
 
 My smart alarm clock that is turned off only by standing on a pressure sensitive mat created using a Raspberry Pi Zero W and my home server 
 
