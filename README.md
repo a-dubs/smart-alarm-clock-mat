@@ -44,4 +44,4 @@ My smart alarm clock that is turned off only by standing on a pressure sensitive
 **Project Status** : Active  
 **Project Progress** : Completed  
 **Project dates** : Dec '21 - March '22  
-// portfolio.alecwarren.com position priority = 9 (-1 is lowest, 0 is default, 7 is highest)
+<!-- portfolio.alecwarren.com position priority = 9 (-1 is lowest, 0 is default, 7 is highest) -->
