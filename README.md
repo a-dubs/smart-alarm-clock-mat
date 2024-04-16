@@ -36,7 +36,7 @@ Alarm clock on smartphone that is turned off only by standing on a pressure sens
 
 ## Project Metadata
 
-**Project Status** : Active  
+**Project Status** : Archived  
 **Project Progress** : Completed  
 **Project dates** : Dec '21 - March '22  
 <!-- portfolio.alecwarren.com position priority = 7 (-1 is lowest, 0 is default, 10 is highest) -->
